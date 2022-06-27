@@ -1,0 +1,7 @@
+SPATIAL DATA SOURCES:
+
+Marine Protected Areas shapefile downloaded from https://www.fisheries.noaa.gov/resource/map/marine-protected-areas-mpas-fishery-management-areas-map-gis-data on  2022/06/27.
+
+Octopus species occurrence data in that region downloaded from GBIF on 2022/06/27.
+
+Interactive map created with the R 'leaflet' package.
